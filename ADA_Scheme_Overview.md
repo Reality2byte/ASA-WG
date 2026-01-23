@@ -191,7 +191,7 @@ The ADA Certification Scheme involves several key actors that work together to e
   <tr>
    <td style="background-color: #cfe2f3"><strong>ADA Security Test Laboratory (ASTL)</strong>
    </td>
-   <td>Independent organizations who desire to perform ADA Certification evaluations will engage with the CB to become authorized as an ASTL. ASTLs are required to: (a) have and adhere to the ISO 17025 standard when performing ADA Certification evaluations, and (b) demonstrate technical proficiency in conducting ADA evaluations by successfully passing a proficiency exam administered by the CB. 
+   <td>Independent organizations who desire to perform ADA Certification evaluations will engage with the CB to become authorized as an ASTL. ASTLs are required to have and adhere to the ISO 17025 standard when performing ADA Certification evaluations, including the ADA Certification Scheme's [Program Specific Requirements](https://github.com/appdefensealliance/ASA-WG/blob/main/ADA_Security_Test_Lab_Authorization.md#isoiec-17025-program-specific-requirements). 
 <p>
 ASTLs submit completed app evaluations to the CB for review. ASTLs that fail to uphold the quality standards of the ADA Certification Scheme will lose their authorization and no longer be allowed to conduct ADA evaluations.
    </td>
@@ -270,10 +270,11 @@ ASTLs are authorized to perform application evaluations by the CB. For laborator
 
 
 
-1. Petition to become an ASTL
+1. Petition the CB to become an ASTL
 2. Begin the ISO/IEC 17025 Certification Process and successfully complete the process within a year of applying 
-3. Demonstrate technical proficiency in conducting ADA evaluations by successfully passing a proficiency exam administered by the CB. 
-4. Completion of the ISO/IEC 17025 Audit 
+3. Complete the ISO/IEC 17025 Audit 
+
+Note that the ISO/IEC 17025 Certification must include the ADA Certification Scheme's [Program Specific Requirements](https://github.com/appdefensealliance/ASA-WG/blob/main/ADA_Security_Test_Lab_Authorization.md#isoiec-17025-program-specific-requirements) to be acceptable.
 
 Reference the [ADA Lab Authorization document](https://github.com/appdefensealliance/ASA-WG/blob/main/ADA_Security_Test_Lab_Authorization.md) for details.
 
