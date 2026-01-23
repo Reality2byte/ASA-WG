@@ -18,9 +18,8 @@
   - [Steps for Authorization](#steps-for-authorization)
     - [Step 1 - Petition to become an ASTL](#step-1---petition-to-become-an-astl)
     - [Step 2 - Begin the ISO/IEC 17025 Accreditation Process](#step-2---begin-the-isoiec-17025-accreditation-process)
-    - [Step 3 - Completion of Proficiency Test](#step-3---completion-of-proficiency-test)
-    - [Step 4 - Completion of the ISO/IEC 17025 Audit](#step-4---completion-of-the-isoiec-17025-audit)
-    - [Step 5 - Completion of CB Onboarding Process](#step-5---completion-of-cb-onboarding-process)
+    - [Step 3 - Completion of the ISO/IEC 17025 Audit](#step-4---completion-of-the-isoiec-17025-audit)
+    - [Step 4 - Completion of CB Onboarding Process](#step-5---completion-of-cb-onboarding-process)
   - [Maintenance of the Authorization](#maintenance-of-the-authorization)
 - [ISO/IEC 17025 Program Specific Requirements](#isoiec-17025-program-specific-requirements)
 
@@ -94,7 +93,7 @@ The ADA Certification Scheme involves a number of actors that perform a variety 
   <tr>
    <td style="background-color: #cfe2f3"><strong>ADA Security Test Laboratory (ASTL)</strong>
    </td>
-   <td>Independent organizations who desire to perform ADA Certification evaluations will engage with the CB to become authorized as an ASTL. ASTLs are required to: (a) have and adhere to the ISO/IEC 17025 standard when performing ADA Certification evaluations, and (b) demonstrate technical proficiency in conducting ADA evaluations by successfully passing a proficiency exam administered by the CB. 
+   <td>Independent organizations who desire to perform ADA Certification evaluations will engage with the CB to become authorized as an ASTL. ASTLs are required to have and adhere to the ISO/IEC 17025 standard -- including the ADA Certification Scheme's [Program Specific Requirements](https://github.com/appdefensealliance/ASA-WG/blob/main/ADA_Security_Test_Lab_Authorization.md#isoiec-17025-program-specific-requirements) -- when performing ADA Certification evaluations. 
 <p>
 ASTLs submit completed app evaluations to the CB for review. ASTLs that fail to uphold the quality standards of the ADA Certification Scheme will lose their authorization and no longer be allowed to conduct ADA evaluations.
    </td>
@@ -198,29 +197,22 @@ Contact the CB to become an ASTL. Work with the CB to understand the requirement
 
 A prospective ASTL contacts A2LA, or another ILAC/Global Accreditation Cooperation Incorporated accreditation body,  in pursuit of attaining ISO/IEC 17025 accreditation. The scope of accreditation needs to be specific to the ADA scheme. The expectation is that the ASTL will obtain the ISO/IEC 17025 accreditation within a year of applying. 
 
-Once A2LA has deemed the Laboratory’s application complete, TrustCB will grant Provisional 1 ASTL status and the Laboratory can proceed to Step 3 - Completion of Proficiency Test. Laboratories that do not pursue attainment of ISO/IEC 17025 accreditation through A2LA are not eligible for provisional status.
+Once A2LA has deemed the Laboratory’s application complete, TrustCB will grant Provisional 1 ASTL status. Laboratories that do not pursue attainment of ISO/IEC 17025 accreditation through A2LA are not eligible for provisional status.
 
 
-### Step 3 - Completion of Proficiency Test
+### Step 3 - Completion of the ISO/IEC 17025 Audit 
 
-A representative of the lab shall complete a proficiency test for each profile they request authorization. The proficiency test may include a mix of practical, procedural and theoretical questions based on the ADA profiles and testing guides. A minimum passing score of 80% must be achieved. There are no minimum requirements between exam attempts.
-
-
-### Step 4 - Completion of the ISO/IEC 17025 Audit 
-
-Once the Lab successfully completes the accreditation process, they will provide this credential to the CB. Accreditation in conjunction with successful completion of the proficiency test will result in the provisional ASTL becoming a fully authorized ASTL. 
-
-Note: All steps must be completed to be an authorized ASTL, so achieving ISO/IEC 17025 accreditation without successfully completing the trial evaluation does not automatically move the Laboratory to authorized status.
+Once the Lab successfully completes the accreditation process, they will provide this credential to the CB. Accreditation will result in the provisional ASTL becoming a fully authorized ASTL. 
 
 
-### Step 5 - Completion of CB Onboarding Process
+### Step 4 - Completion of CB Onboarding Process
 
 The final step to be an authorized ASTL is the completion of the CB provided contractual paperwork and onboarding to the ADA Compliance tooling.
 
 
 ## Maintenance of the Authorization
 
-The authorization provided to an ASTL is not perpetual. ASTLs must operate in accordance with the obligations under ISO/IEC 17025 and must renew their accreditation to keep it current at all times. ASTLs must inform the ADA CB if their accreditation is revoked for any reason. The ADA CB will revoke authorization from Laboratories that no longer have accreditation. 
+The authorization provided to an ASTL is not perpetual. ASTLs must operate in accordance with the obligations under ISO/IEC 17025 -- including the ADA Certification Scheme's [Program Specific Requirements](https://github.com/appdefensealliance/ASA-WG/blob/main/ADA_Security_Test_Lab_Authorization.md#isoiec-17025-program-specific-requirements) -- and must renew their accreditation to keep it current at all times. ASTLs must inform the ADA CB if their accreditation is revoked for any reason. The ADA CB will revoke authorization from Laboratories that no longer have accreditation. 
 
 While audits are typically conducted on a regular schedule, special audits may be initiated outside of this schedule in response to specific circumstances, such as disputes or significant non-conformities identified through the dispute resolution process.
 
@@ -270,35 +262,38 @@ Additional specific requirements for this program are described below.  The numb
 <p>
 For the Engagement Team, those performing the assessment must have one of the following certifications for Web App and Cloud Config Profiles:<ul>
 
-<li>Certified Mobile and Web Application Penetration Tester (CMWAPT)
+<li>Certified Mobile and Web Application Penetration Tester (CMWAPT)</li>
 <li>Offensive Security <ul>
 
- <li>Offensive Security Web Expert (OSWE)
- <li>Offensive Security Certified Professional (OSCP)
-<li>Global Information Assurance Certification (GIAC)  <ul>
+ <li>Offensive Security Web Expert (OSWE)</li>
+ <li>Offensive Security Certified Professional (OSCP)</li>
+ </ul>
+<li>Global Information Assurance Certification (GIAC)</li>  <ul>
 
- <li>Penetration Tester (GPEN)
- <li>Certified Web Application Defender (GWEB)
- <li>Web Application Penetration Tester (GWAPT)
-<li>eWPTX
+ <li>Penetration Tester (GPEN)</li>
+ <li>Certified Web Application Defender (GWEB)</li>
+ <li>Web Application Penetration Tester (GWAPT)</li>
+ </ul>
+ <li>eWPTX</li>
+ </ul>
+</p>
 
 <p>
 For the Engagement Team, must have one of the following for Mobile App Profile (or be under the supervision of someone with the following):<ul>
 
-<li>Global Information Assurance Certification (GIAC) Mobile Device Security Analyst (GMOB)
-<li>Certified Mobile Security Engineer (CMSE)
-<li>INE Mobile Application Penetration Tester (eMAPT)
-<li>TCM-Sec Practical Mobile Pentest Associate (PMPA)
+<li>Global Information Assurance Certification (GIAC) Mobile Device Security Analyst (GMOB)</li>
+<li>Certified Mobile Security Engineer (CMSE)</li>
+<li>INE Mobile Application Penetration Tester (eMAPT)</li>
+<li>TCM-Sec Practical Mobile Pentest Associate (PMPA)</li>
+</ul>
+</p>
 
 <p>
 For the Engagement Quality Control reviewer:<ul>
 
-<li>Academic training:  EQF Level >= 4
+<li>Academic training:  EQF Level >= 4</li>
 <li>Complementary training:  Knowledge of the technology associated with the Evaluation of Cloud Applications or Android Mobile Applications.</li></ul>
-</li></ul>
-</li></ul>
-</li></ul>
-</li></ul>
+</p>
 
    </td>
   </tr>
